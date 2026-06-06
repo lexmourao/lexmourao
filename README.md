@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi 👋, I'm Alexandre Mourão
 
-<!--
-**lexmourao/lexmourao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Specialist | AI Strategy & Automation Consultant | Innovation Consultant | AI Solutions Portfolio Lead**
 
-Here are some ideas to get you started:
+**AI Research, Business Operations & Executive Decision Support | RAG | 22+ AI Solutions Built | M.Sc. USP | Postgrad AI/ML**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I help organizations move from **AI interest to working systems**.
+
+I bring **10+ years across operations, business development, product, healthcare, SaaS, and research**, with **4+ years of hands-on AI strategy and implementation** and **6+ years working remotely with international teams and C-level stakeholders**.
+
+My work combines **AI strategy, RAG, automation, workflow design, solution architecture, research, governance, and hands-on delivery**.
+
+---
+
+## 🚀 What I Build
+
+- RAG knowledge systems and AI assistants
+- Workflow automations using n8n, APIs, webhooks, and databases
+- MyGPTs and custom GPT-based tools
+- AI sales assistants, onboarding systems, and knowledge hubs
+- Executive decision-support and research-to-decision workflows
+- Prototypes, PoCs, documentation, and governance frameworks
+
+---
+
+## 📌 Proven Results
+
+- 22+ custom AI solutions built
+- 405+ user sessions across deployed AI tools
+- Top MyGPT tool with 300+ active users
+- 60–80% faster implementation compared with traditional DIY workflows
+- $500K+ funding secured for an AI-enabled startup as former founder
+- MVP/beta delivered in 7 months
+- 6+ years working remotely with international teams and C-level stakeholders
+
+---
+
+## 🧠 Focus Areas
+
+- AI strategy and implementation
+- RAG systems and knowledge architecture
+- AI automation and workflow optimization
+- Business operations and process design
+- Market research and executive decision support
+- Innovation consulting and AI solutions portfolio leadership
+- B2B SaaS, sales enablement, and customer-facing AI systems
+- AI adoption, documentation, and governance
+
+---
+
+## 🛠️ Tools & Technologies
+
+**AI & LLMs:** OpenAI, ChatGPT, Claude, MyGPTs, LLMs, NLP, RAG, Prompt Engineering, Structured Outputs  
+**Automation:** n8n, Zapier, APIs, Webhooks, Google Sheets API, WhatsApp Business API  
+**Data & Backend:** PostgreSQL, Qdrant, Vector Databases  
+**Development & Workflow:** Cursor, GitHub, GitLab, VS Code, Notion, Jira, Asana  
+**Product & Design:** Figma, Miro  
+**Creative AI:** FloraAI, MidJourney, Runway, Veed  
+
+---
+
+## 🎓 Background
+
+- M.Sc. in Science & Public Health — University of São Paulo (USP)
+- Postgraduate studies in AI & Machine Learning — PUC-MG
+- Google Cloud certifications in Generative AI, LLMs, Responsible AI, Vertex AI, and Machine Learning fundamentals
+- Former Founder / AI Product Lead at ARBO Health
+- AI Specialist and AI Sector Lead across healthcare, retail, SaaS, sales, and operations projects
+
+---
+
+## 🌎 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/lexmourao
+- GitHub: https://github.com/lexmourao
+- Email: [contato.alexandremourao@gmail.com](mailto:contato.alexandremourao@gmail.com)
