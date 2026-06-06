@@ -64,12 +64,12 @@ Built for **Cursor, ChatGPT, Claude, and Codex-style AI coding environments**, t
 
 ## 🛠️ Tools & Technologies
 
-**AI & LLMs:** OpenAI, ChatGPT, Claude, MyGPTs, LLMs, NLP, RAG, Prompt Engineering, Structured Outputs
-**Automation:** n8n, Zapier, APIs, Webhooks, Google Sheets API, WhatsApp Business API
-**Data & Backend:** PostgreSQL, Qdrant, Vector Databases
-**Development & Workflow:** Cursor, GitHub, GitLab, VS Code, Notion, Jira, Asana
-**Product & Design:** Figma, Miro
-**Creative AI:** FloraAI, MidJourney, Runway, Veed
+- **AI & LLMs:** OpenAI, ChatGPT, Claude, MyGPTs, LLMs, NLP, RAG, Prompt Engineering, Structured Outputs
+- **Automation:** n8n, Zapier, APIs, Webhooks, Google Sheets API, WhatsApp Business API
+- **Data & Backend:** PostgreSQL, Qdrant, Vector Databases
+- **Development & Workflow:** Cursor, GitHub, GitLab, VS Code, Notion, Jira, Asana
+- **Product & Design:** Figma, Miro
+- **Creative AI:** FloraAI, MidJourney, Runway, Veed
 
 ---
 
