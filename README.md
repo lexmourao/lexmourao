@@ -81,7 +81,7 @@ Best reviewed as: AI-assisted engineering methodology, local developer tooling, 
 * Postgraduate studies in AI & Machine Learning — PUC-MG
 * Google Cloud certifications in Generative AI, LLMs, Responsible AI, Vertex AI, and Machine Learning fundamentals: https://www.skills.google/public_profiles/b297762d-e4f8-4847-ab17-14b6e8adc2ea
 * Former Founder / AI Product Lead at ARBO Health
-* AI Specialist and AI Sector Lead across healthcare, retail, SaaS, sales, business and operations projects
+* AI Specialist and AI Sector Lead across research, healthcare, retail, SaaS, sales, business, innovation and operations projects
 
 ---
 
