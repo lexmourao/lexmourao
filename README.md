@@ -24,6 +24,8 @@ Built for **Cursor, ChatGPT, Claude, and Codex-style AI coding environments**, t
 
 **Key areas:** AI-assisted development, persistent memory, retrieval workflows, Python automation, FastAPI, QA, CI, documentation governance, local-first architecture, and human-supervised AI methodology.
 
+Best reviewed as: AI-assisted engineering methodology, local developer tooling, RAG/memory workflow, and documentation-governed implementation system.
+
 ---
 
 ## 🚀 What I Build
