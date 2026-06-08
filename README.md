@@ -35,7 +35,8 @@ Best reviewed as: AI-assisted engineering methodology, local developer tooling, 
 * MyGPTs and custom GPT-based tools
 * AI sales assistants, onboarding systems, and knowledge hubs
 * Executive decision-support and research-to-decision workflows
-* Prototypes, PoCs, documentation, and governance frameworks
+* Prototypes, PoCs, MVPs/beta builds, documentation, and governance frameworks
+* Build end-to-end AI systems from concept to implementation, adoption, and measurable value.
 
 ---
 
