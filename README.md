@@ -2,7 +2,7 @@
 
 **AI Specialist | AI Strategy & Automation Consultant | Innovation Consultant | AI Solutions Portfolio Lead**
 
-**AI Research, Business Operations & Executive Decision Support | RAG | 22+ AI Solutions Built | M.Sc. USP | Postgrad AI/ML**
+**AI Research, Product, Business Operations & Executive Decision Support | RAG | 22+ AI Solutions Built | M.Sc. USP | Postgrad AI/ML**
 
 I help organizations move from **AI interest to working systems**.
 
