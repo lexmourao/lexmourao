@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alexandre Mourão
 
-**AI Specialist | AI Strategy & Automation Consultant |AI Product Manager & Lead | Innovation Consultant | AI Solutions Portfolio Lead**
+**AI Specialist | AI Strategy & Automation Consultant |AI Product Manager | Innovation Consultant | AI Solutions Portfolio Lead**
 
 **AI Research, Product, Business Operations & Executive Decision Support | RAG | 22+ AI Solutions Built | M.Sc. USP | Postgrad AI/ML**
 
